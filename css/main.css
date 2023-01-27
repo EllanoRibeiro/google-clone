@@ -1,0 +1,44 @@
+.logo{display: flex;
+    justify-content: center;
+margin-top: 10%;
+}
+
+.g{
+    text-align: end;
+    padding: 1px 5px;
+    margin-right: 20px;
+    word-spacing: 15px;
+    margin-top: 30px;
+}
+
+input{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 34%;
+    width: 30%;
+    height: 35px;
+    border-radius: 6px;
+    font-size: 15px;
+    text-align:start;
+    padding-left: 20px;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+
+.web{
+    margin-left:49%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+a{
+    color:rgb(102, 102, 102);
+    text-decoration: none;
+    font-family: arial;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+a:hover{
+    color:black
+}
