@@ -21,7 +21,7 @@ input{
     font-size: 15px;
     text-align:start;
     padding-left: 20px;
-    box-shadow: 2px 2px 2px 2px;
+    box-shadow: 2px 2px 2px rgba(63, 63, 63, 0.486);
 }
 
 
@@ -40,5 +40,13 @@ a{
 }
 
 a:hover{
+    color:black
+}
+
+.store{display: flex;
+    margin-left: 48.1% ;
+    font-family: arial;
+    font-size: 15px;
+    cursor: pointer;
     color:black
 }
